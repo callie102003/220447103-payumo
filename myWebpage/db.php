@@ -1,4 +1,5 @@
 <?php
+// Database connection settings
 $servername = "localhost"; // or your server IP
 $username = "root";        // your MySQL username
 $password = "";            // your MySQL password
